@@ -1,5 +1,17 @@
-### Hi there 👋
+I'm a Senior UI Engineer at [Mozilla](github.com/mozilla/), curerently working on[Firefox Relay](github.com/mozilla/fx-private-relay).
 
+### Previous projects:
+- [Mozilla.org](https://github.com/mozilla/bedrock/) – 
+- [Monitor.Firefox.com](https://github.com/mozilla/blurts-server)
+- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
+- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
+
+### Social Media
+<ul>
+  <li><a href="https://maxxcrawford.com">Personal Website</a></li>
+  <li><a href="https://twitter.com/woodenwarship">Twitter</a></li>
+  <li><a href="https://medium.com/@woodenwarship">Medium</a></li>
+</ul>
 <!--
 **maxxcrawford/maxxcrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
