@@ -1,4 +1,4 @@
-I'm a Senior UI Engineer at [Mozilla](github.com/mozilla/), curerently working on[Firefox Relay](github.com/mozilla/fx-private-relay).
+I'm a Senior UI Engineer at [Mozilla](github.com/mozilla/), curerently working on [Firefox Relay](github.com/mozilla/fx-private-relay).
 
 #### Previous Mozilla projects:
 - [Bedrock (mozilla.org)](https://github.com/mozilla/bedrock/) 
