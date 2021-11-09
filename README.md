@@ -1,12 +1,14 @@
 I'm a Senior UI Engineer at [Mozilla](github.com/mozilla/), curerently working on[Firefox Relay](github.com/mozilla/fx-private-relay).
 
-### Previous projects:
-- [Mozilla.org](https://github.com/mozilla/bedrock/) – 
-- [Monitor.Firefox.com](https://github.com/mozilla/blurts-server)
+#### Previous Mozilla projects:
+- [Bedrock (mozilla.org)](https://github.com/mozilla/bedrock/) 
+- [Firefox Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
 - [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
 - [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
 
-### Social Media
+---
+
+Social Media
 <ul>
   <li><a href="https://maxxcrawford.com">Personal Website</a></li>
   <li><a href="https://twitter.com/woodenwarship">Twitter</a></li>
