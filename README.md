@@ -5,14 +5,23 @@ I'm a Senior UI Engineer at [Mozilla](github.com/mozilla/), curerently working o
 - [Firefox Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
 - [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
 - [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
+- [Mozilla Builders](https://github.com/mozilla/builders)
 
 ---
 
-Social Media
+### Community Projects
+
+- [Techlahoma](https://techlahoma.org)
+- [Tulsa UX Usergroup](https://tulsaux.com)
+- [200OK Web Developer Conference](https://200ok.us)
+- [UXOK UX/UI Design Conference](https://uxok.org)
+
+---
+
+### Social Media
 <ul>
   <li><a href="https://maxxcrawford.com">Personal Website</a></li>
   <li><a href="https://twitter.com/woodenwarship">Twitter</a></li>
-  <li><a href="https://medium.com/@woodenwarship">Medium</a></li>
 </ul>
 <!--
 **maxxcrawford/maxxcrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
