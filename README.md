@@ -3,8 +3,6 @@ I'm a Senior UI Engineer at [Mozilla](https://github.com/mozilla/), curerently w
 ### Current Mozilla Projects: 
 
 - [Firefox Relay (relay.firefox.com)](https://github.com/mozilla/fx-private-relay)
-- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
-- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
 - [Firefox Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
 - [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
 - [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
