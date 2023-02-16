@@ -1,10 +1,16 @@
 I'm a Senior UI Engineer at [Mozilla](https://github.com/mozilla/), curerently working on [Firefox Relay](https://github.com/mozilla/fx-private-relay) on the Privacy and Security Products team.
 
-#### Past Mozilla projects:
-- [Bedrock (mozilla.org)](https://github.com/mozilla/bedrock/) 
+### Current Mozilla Projects: 
+
+- [Firefox Relay (relay.firefox.com)](https://github.com/mozilla/fx-private-relay)
+- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
+- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
 - [Firefox Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
 - [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
 - [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
+
+#### Past Mozilla projects:
+- [Bedrock (mozilla.org)](https://github.com/mozilla/bedrock/) 
 - [Mozilla Builders](https://github.com/mozilla/builders)
 
 ---
