@@ -1,9 +1,11 @@
 I'm a Senior UI Engineer at [Mozilla](https://github.com/mozilla/), curerently working on [Firefox Relay](https://github.com/mozilla/fx-private-relay) on the Privacy and Security Products team.
 
+See my [full resume](https://maxxcrawford.com/MaxxCrawford_Resume_2024.pdf) at my website: [https://maxxcrawford.com](maxxcrawford.com)
+
 ### Current Mozilla Projects: 
 
 - [Firefox Relay (relay.firefox.com)](https://github.com/mozilla/fx-private-relay)
-- [Firefox Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
+- [Mozilla Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
 - [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
 - [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
 
