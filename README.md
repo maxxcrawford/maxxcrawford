@@ -2,14 +2,19 @@ I'm a senior UI (frontend) engineer with over a decade of experience of designin
 
 See my [full resume](https://maxxcrawford.com/MaxxCrawford_Resume_2024.pdf) at my website: [https://maxxcrawford.com](maxxcrawford.com)
 
+### Current Projects: 
+- [Firefox Browser (New Tab)](https://firefox-source-docs.mozilla.org/browser/components/newtab/docs/index.html)
+- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
+- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
+
+
+
 ### Previous Projects: 
 
 #### Mozilla 
 
 - [Firefox Relay (relay.firefox.com)](https://github.com/mozilla/fx-private-relay)
 - [Mozilla Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
-- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
-- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
 - [Bedrock (mozilla.org)](https://github.com/mozilla/bedrock/) 
 - [Mozilla Builders](https://github.com/mozilla/builders)
 
