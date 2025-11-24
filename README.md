@@ -1,18 +1,18 @@
-I'm a senior UI (frontend) engineer with over a decade of experience of designing and developing websites, applications and software. I work hand-in-hand with companies and national brands to grow ideas into scalable, shareable experiences.
+I'm a senior UI (frontend) engineer with over a decade of experience of designing and developing websites, applications and software. I work hand-in-hand with companies and national brands to grow ideas into scalable, shareable experiences. 
+
+Currently, I'm a a senior software engineer on [the New Tab team](https://firefox-source-docs.mozilla.org/browser/extensions/newtab/docs/index.html), working on [the Firefox browser](https://www.firefox.com).
 
 See my [full resume](https://maxxcrawford.com/MaxxCrawford_Resume_2024.pdf) at my website: [https://maxxcrawford.com](maxxcrawford.com)
 
 ### Current Projects: 
 - [Firefox Browser (New Tab)](https://firefox-source-docs.mozilla.org/browser/components/newtab/docs/index.html)
-- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
-- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
-
-
 
 ### Previous Projects: 
 
 #### Mozilla 
 
+- [Facebook Container Add-on](https://github.com/mozilla/contain-facebook)
+- [Multi-account Containers Add-on](https://github.com/mozilla/multi-account-containers)
 - [Firefox Relay (relay.firefox.com)](https://github.com/mozilla/fx-private-relay)
 - [Mozilla Monitor (monitor.firefox.com)](https://github.com/mozilla/blurts-server)
 - [Bedrock (mozilla.org)](https://github.com/mozilla/bedrock/) 
@@ -26,6 +26,10 @@ See my [full resume](https://maxxcrawford.com/MaxxCrawford_Resume_2024.pdf) at m
 - [Tulsa UX Usergroup](https://tulsaux.com)
 - [200OK Web Developer Conference](https://200ok.us)
 - [UXOK UX/UI Design Conference](https://uxok.org)
+
+---
+
+In my free time, I'm busy playing rugby, trail running and rock climbing! 
 
 
 <!--
